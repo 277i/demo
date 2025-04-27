@@ -1,0 +1,1 @@
+import{d as e,e as o,f as s,o as t}from"./index-CS97xECk.js";const n={class:""},_=s("h1",null,"登录失败的路由页面",-1),a=[_],l=e({__name:"index",setup(c){return(r,d)=>(t(),o("div",n,a))}});export{l as default};
